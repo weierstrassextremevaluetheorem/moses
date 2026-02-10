@@ -1,5 +1,7 @@
 moses
 17 year old fintech, edtech founder 🐲
+@moseshft - tiktok
+@moseswevt - X
 
 17 Years old 
 - Building Stochs, a Fintech company that aims to optimize data pipelines and Agentic Trading Stategies
