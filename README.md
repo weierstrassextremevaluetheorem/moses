@@ -1,5 +1,6 @@
-moses
-17 year old fintech, edtech founder 🐲
+moses 
+17 year old fintech, edtech founder, Full Stack SWE 🐲
+
 @moseshft - tiktok
 @moseswevt - X
 
@@ -8,8 +9,9 @@ moses
 - Building Eigen, an Edtech company that acts as a skill building and a accumulation platform that gamifies learning (starting with STEM)
 - Acquired STEM.IV, a research program that selected 20 students out of 200 in order to conduct cross-disciplinary research on engineering.
 - Learnt Measure Theory, Functional Analysis, Differential Geometry, Convex Optimization, Stochastic Calculus and Mallavin Calculus in Maths
-- Learnt Data Structure and Algorithms, Machine Learning, Neural Networks and Artificial Intelligence
+- Learnt Data Structures and Algorithms, Machine Learning, Neural Networks and Artificial Intelligence
 - Learnt General Relativity, Quantum Mechanics II, Quantum Field Theory, Gauge Theory and Statistical Mechanics.
+- Building lots of side projects for fun
 
 16 Years old
 - Learnt Calculus 1-3, Linear Algebra, Probability and Statistics, Ordinary and Partial Diifferential Equations, Discrete Mathematics
