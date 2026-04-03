@@ -1,10 +1,3 @@
-moses 
-17 year old fintech, edtech founder, Full Stack SWE 🐲
-
-@moseshft - tiktok
-
-@moseswevt - X
-
 17 Years old 
 - Research in Robotics, AI and Engineering
 - Own Clawtabaru - specializing ai agents for companies
@@ -28,7 +21,7 @@ moses
 Enter the Dragon! 🐉
 
 15 Years old
-- During the early era of AI, utilized Bard (now Gemini) to build an information detector that utilizes OCR tech to scan text and provide full technical summaries while aggregating data from cross verified sources for an International Innovation Fair.
+- During the early era of AI, utilized Bard (now Gemini) to build an information detector that utilizes OCR tech to scan text and provide full technical summaries while aggregating data from cross verified sources via and RAG and implemented Multi-LLM reasoning for information confirmation and source queries for an International Innovation Fair.
 - Semi-pro valorant player (3 figures earnings)
 - Semi Bum
 
@@ -39,6 +32,4 @@ Enter the Dragon! 🐉
 
 13 Years Old
 - Minecraft Builder
-- Chudling.
-
-<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/057fb5c1-4385-46d6-ac50-2f1f2b213e0d" />
+- Chudling
