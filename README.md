@@ -1,4 +1,4 @@
-End-to-end systems engineer specializing in ML infrastructure, robotics, and quantitative research.
+End-to-end research engineer specializing in Math, ML infrastructure, robotics, and quantitative research.
 
 ## Tech Stack
 
