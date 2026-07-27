@@ -1,4 +1,18 @@
-End-to-end research engineer specializing in Math, ML infrastructure, robotics, and quantitative research.
+I do a lot of math...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Tech Stack
 
